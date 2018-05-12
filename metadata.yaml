@@ -1,5 +1,8 @@
 _repo: In-the-Arena--Stories-of-Political-Life_8740
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -16,6 +19,8 @@ description: Booth Tarkington served in the Indiana House of Representatives in 
   bosses, dirty tricks, vote fraud, and smoke-filled rooms bring these short fiction
   pieces about politics to life. Collected in 1905, the book includes Boss Gorget,"
   The Aliens," The Need of Money," Hector," Mrs. Protheroe," and Great Men's Sons."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8740#In-the-Arena--Stories-of-Political-Life
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
